@@ -41,9 +41,7 @@ class Owner
   end
   
   def buy_cat(name)
-    Cat.all.find
-    binding.pry
-  
+
   end 
 end
 
