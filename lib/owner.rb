@@ -49,7 +49,7 @@ class Owner
   end 
   
   def walk_dogs
-    if Dogs.
+    Dogs.mood
   end 
 end
 
