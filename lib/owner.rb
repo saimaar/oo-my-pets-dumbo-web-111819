@@ -49,6 +49,7 @@ class Owner
   end 
   
   def walk_dogs
+  end 
 end
 
 #billy.owner will give us all the cats the belongs to owner
