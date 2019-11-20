@@ -47,6 +47,8 @@ class Owner
    def buy_dog(name)
     Dog.new(name, self)
   end 
+  
+  def walk_dogs
 end
 
 #billy.owner will give us all the cats the belongs to owner
